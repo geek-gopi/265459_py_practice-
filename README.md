@@ -1,2 +1,2 @@
-# 265459_py_practice-
+# 265459_py_practice
 Python Daily Learning repo
