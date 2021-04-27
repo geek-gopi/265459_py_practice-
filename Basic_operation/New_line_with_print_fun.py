@@ -21,7 +21,7 @@ print("Monty Python.")
 
 #using end="/n" prints same as default print
 
-print("My name is", "Python.", end="/n")
+print("My name is", "Python.", end="\n")
 print("Monty Python.")
 
 
