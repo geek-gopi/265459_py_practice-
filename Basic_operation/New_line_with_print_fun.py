@@ -9,9 +9,20 @@ print("\\")
 
 
 
-# comma is just used to pass multiple arguments still print() treats it same  
+# comma is just used to pass multiple arguments still print() treats it same as single argument 
 
 print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
+
+
+#using end=" "
+
+print("My name is", "Python.", end=" ")
+print("Monty Python.")
+
+#using end="/n" prints same as default print
+
+print("My name is", "Python.", end="/n")
+print("Monty Python.")
 
 
 
